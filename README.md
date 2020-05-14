@@ -1,5 +1,5 @@
 # Authentication Boilerplate
-![apiBadge](https://img.shields.io/badge/API-graphql-ff69b4)
+![apiBadge](https://img.shields.io/badge/API-graphql-ff69b4) ![authBadge](https://img.shields.io/badge/AUTH-JWT-brightgreen)
 
 NodeJS, Graphql, JWT, React Auth Boilerplate
 
@@ -15,7 +15,7 @@ NodeJS
 MongoDB
 
 ```
-git clone {}
+git clone https://github.com/nkosi-tauro/graphql-jwt-boilerplate.git
 ```
 Create a `nodemon.js` file to store the following enviroment variables :
 ```
@@ -29,7 +29,7 @@ Create a `nodemon.js` file to store the following enviroment variables :
 After setting up
 ```bash
 
-cd {} && npm install && npm start
+cd graphql-jwt-boilerplate && npm install && npm start
 cd frontend && npm install && npm start
 
 ```
