@@ -4,7 +4,7 @@
 NodeJS, Graphql, JWT, React Auth Boilerplate
 
 ## Usage 
-Use this application to bootstrap a fully functional NodeJS/React application that uses JWT for authentication and a Graphql Application
+Use this application to bootstrap a fully functional NodeJS/React application that uses JWT for authentication and a Graphql API
 
 
 
@@ -15,7 +15,7 @@ NodeJS
 MongoDB
 
 ```
-git clone https://github.com/nkosi-tauro/graphql-jwt-boilerplate.git
+npm i jwtauth-boilerplate
 ```
 Create a `nodemon.js` file to store the following enviroment variables :
 ```
@@ -29,7 +29,7 @@ Create a `nodemon.js` file to store the following enviroment variables :
 After setting up
 ```bash
 
-cd graphql-jwt-boilerplate && npm install && npm start
+npm install && npm start
 cd frontend && npm install && npm start
 
 ```
