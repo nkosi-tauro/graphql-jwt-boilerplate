@@ -15,7 +15,7 @@ NodeJS
 MongoDB
 
 ```
-npm i jwtauth-boilerplate
+git clone https://github.com/nkosi-tauro/graphql-jwt-boilerplate.git
 ```
 Create a `nodemon.js` file to store the following enviroment variables :
 ```
@@ -29,7 +29,7 @@ Create a `nodemon.js` file to store the following enviroment variables :
 After setting up
 ```bash
 
-npm install && npm start
+cd graphql-jwt-boilerplate && npm install && npm start
 cd frontend && npm install && npm start
 
 ```
